@@ -1,8 +1,8 @@
 # aly_life
 
-A new Flutter project.
+The new Aly Life app.
 
-## Getting Started
+## Flutter
 
 This project is a starting point for a Flutter application.
 
